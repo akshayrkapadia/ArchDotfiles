@@ -1,0 +1,4 @@
+#!/bin/bash
+
+SELECTION="$(xclip -o -r)" 
+echo -e "$SELECTION\n" >> ~/.clipboard_history.txt

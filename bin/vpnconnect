@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if sudo protonvpn connect -f; then
+	notify-send "VPN" "Successfully connected to VPN"
+else
+	notify-send "VPN" "Failed to connect to VPN" -u critical
+fi 

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+FILE=$(find ~/ -type f | dmenu -p "File" -i -F)
+if [ "$FILE" != "" ]
+then
+	i3-sensible-terminal -e vim $FILE
+fi

@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+# /usr/bin/i3exit
+
+case "$1" in
+    lock)
+        i3lock -k -B=1 --pass-media-keys --pass-screen-keys --indicator --insidecolor=00000099 --timecolor=ffffffdd --datecolor=ffffffdd --datestr="%a, %b %d" 
+        ;;
+    logout)
+        i3-msg exit
+        ;;
+    suspend)
+        systemctl suspend
+        ;;
+    #hibernate)
+    #    systemctl hibernate
+    #    ;;
+    reboot)
+        systemctl reboot
+        ;;
+    shutdown)
+        systemctl poweroff
+        ;;
+    *)
+        echo "Usage: $0 [lock|logout|reboot|shutdown]"
+        exit 2
+esac
+
+exit 0

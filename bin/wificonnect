@@ -1,0 +1,15 @@
+#!/bin/bash
+
+ESSID=$(nmcli d wifi list | grep "Mbit/s" | awk '{print $1}' | grep -v "*\|--" | dmenu -i -p "Wifi Network" -F)
+
+if [[ "$ESSID" != "" ]]; then
+	PASSWORD=$(dmenu -i -p "Password" -P -F -fn "monospace-13")
+	if [[ "$PASSWORD" != "" ]]; then
+		if nmcli d wifi connect "$ESSID" password "$PASSWORD"; then
+			notify-send "Wifi" "Connected to $ESSID"
+			./.local/bin/vpnconnect
+		else
+			notify-send "Wifi" "Failed to connect to $ESSID" -u critical
+		fi
+	fi
+fi

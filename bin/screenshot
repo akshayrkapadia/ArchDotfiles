@@ -1,0 +1,9 @@
+#!/bin/bash
+
+OPTION=$(echo -e "Entire Screen\nSelection" | dmenu -i -F)
+
+if [[ "$OPTION" == "Entire Screen" ]]; then
+	scrot ~/Pictures/screenshots/ && notify-send "Screenshot saved to ~/Pictures/screenshots/"
+elif [[ "$OPTION" == "Selection" ]]; then
+	scrot -s ~/Pictures/screenshots/ && notify-send "Screenshot saved to ~/Pictures/screenshots/"
+fi

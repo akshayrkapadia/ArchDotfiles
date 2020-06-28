@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+# Script to remove a populated directory
+
+yes | rm -R $*

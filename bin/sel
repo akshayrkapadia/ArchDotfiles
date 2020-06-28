@@ -1,0 +1,18 @@
+#!/bin/bash
+
+HISTORY="$(cat ~/.clipboard_history.txt | grep -v "^$")"
+if [[ "$HISTORY" == "" ]]
+then
+	notify-send "xclip" "Clipboard empty"
+else
+	SELECTION="$(cat ~/.clipboard_history.txt | grep -v '^$' | dmenu -p 'Selection' -i -F)"
+	if [[ "$SELECTION" != "" ]]
+	then
+		if [[ "$SELECTION" == "CLEAR" ]]
+		then
+			echo "" > ~/.clipboard_history.txt
+		else
+			echo "$SELECTION" | xclip -sel clip
+		fi
+	fi
+fi

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+DRIVE=$(lsblk -rpo "name,type,size,mountpoint" | awk '$4==""{printf "%s (%s)\n",$1,$3}' | awk '{print $1};' | grep "/dev/" | grep -v "sda\|sr0" | grep "[0-9]" |  dmenu -i -F -p "Drive")
+
+if [[ $DRIVE != "" ]]
+then
+	#DRIVE=$(echo $DRIVE | sed -n "s/\/dev\///p" | sed -n "s/[0-9]//p")
+	MOUNTPOINT="/mnt$DRIVE"
+	sudo mkdir -p $MOUNTPOINT
+	if sudo mount $DRIVE $MOUNTPOINT 
+	then
+		notify-send "Drives" "$DRIVE mounted to $MOUNTPOINT"
+	else
+		notify-send "Drives" "Failed to mount $DRIVE" -u critical
+		sudo rm -r $MOUNTPOINT
+	fi
+fi
+
+

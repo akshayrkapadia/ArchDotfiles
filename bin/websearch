@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+QUERY=$(cat ~/.config/BraveSoftware/Brave-Browser/Default/Bookmarks | grep "http[s]*://*" | awk '{$1=""};1' | sed s/\"//g | sed s/" "//g | dmenu -p "Search" -i -F)
+if [ "$QUERY" != "" ]
+then
+	if [ "$(echo "$QUERY" | grep 'http[s]*://*.*')" != "" ]
+	then
+		xdg-open "$QUERY"
+	else
+		QUERY=$(sed s/" "/"+"/g <<< "$QUERY")
+		xdg-open "https://duckduckgo.com/?q=$QUERY"
+	fi
+fi

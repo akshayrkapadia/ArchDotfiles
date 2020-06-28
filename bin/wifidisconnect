@@ -1,0 +1,11 @@
+#!/bin/bash
+
+ESSID=$(nmcli connection show --active | awk '{$NF=""}NF' | awk '{$NF=""}NF' | awk '{$NF=""}NF'| grep -v "NAME" | sed 's/ *$//'| dmenu -i -p "Wifi Network" -F)
+
+if [[ "$ESSID" != "" ]]; then
+	if nmcli con down "$ESSID"; then
+		notify-send "Wifi" "Disconnected from $ESSID"
+	else
+		notify-send "Wifi" "Failed to disconnect from $ESSID" -u critical
+	fi
+fi

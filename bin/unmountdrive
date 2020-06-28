@@ -1,0 +1,23 @@
+#!/bin/bash
+
+DRIVE=$(ls /mnt/dev/ | dmenu -i -F -p "Drive")
+
+
+if [[ $DRIVE != "" ]]
+then
+	MOUNTPOINT="/mnt/dev/$DRIVE"
+	if sudo umount $MOUNTPOINT
+	then
+		notify-send "Drives" "$DRIVE unmounted"
+		sudo rm -r $MOUNTPOINT
+		DEV=$(ls /mnt/dev)
+		if [[ "$DEV" == "" ]]
+		then
+			sudo rmdir /mnt/dev
+		fi
+	else
+		notify-send "Drives" "Failed to unmount $DRIVE" -u critical
+	fi
+fi
+
+
