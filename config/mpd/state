@@ -1,0 +1,46 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 0
+time: 1.252000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Trivium/What The Dead Men Say/01 IX.m4a
+1:Trivium/What The Dead Men Say/03 Catastrophist.m4a
+2:Trivium/What The Dead Men Say/04 Amongst the Shadows & the Stones.m4a
+3:Trivium/What The Dead Men Say/05 Bleed into Me.m4a
+4:Trivium/What The Dead Men Say/06 The Defiant.m4a
+5:Trivium/What The Dead Men Say/07 Sickness Unto You.m4a
+6:Trivium/What The Dead Men Say/08 Scattering the Ashes.m4a
+7:Trivium/What The Dead Men Say/09 Bending the Arc to Fear.m4a
+8:Trivium/What The Dead Men Say/10 The Ones We Leave Behind.m4a
+9:Trivium/The Sin And The Sentence/01 - The Sin And The Sentence.ogg
+10:Trivium/The Sin And The Sentence/02 - Beyond Oblivion.ogg
+11:Trivium/The Sin And The Sentence/03 - Other Worlds.ogg
+12:Trivium/The Sin And The Sentence/04 - The Heart From Your Hate.ogg
+13:Trivium/The Sin And The Sentence/05 - Betrayer.ogg
+14:Trivium/The Sin And The Sentence/06 - The Wretchedness Inside.ogg
+15:Trivium/The Sin And The Sentence/07 - Endless Night.ogg
+16:Trivium/The Sin And The Sentence/08 - Sever The Hand.ogg
+17:Trivium/The Sin And The Sentence/09 - Beauty In The Sorrow.ogg
+18:Trivium/The Sin And The Sentence/10 - The Revanchist.ogg
+19:Trivium/The Sin And The Sentence/11 - Thrown Into The Fire.ogg
+20:Trivium/Shogun/01 - Kirisute Gomen.ogg
+21:Trivium/Shogun/02 - Torn Between Scylla and Charybdis.ogg
+22:Trivium/Shogun/03 - Down From the Sky.ogg
+23:Trivium/Shogun/04 - Into the Mouth of Hell We March.ogg
+24:Trivium/Shogun/05 - Throes of Perdition.ogg
+25:Trivium/Shogun/06 - Insurrection.ogg
+26:Trivium/Shogun/07 - The Calamity.ogg
+27:Trivium/Shogun/08 - He Who Spawned the Furies.ogg
+28:Trivium/Shogun/09 - Of Prometheus and the Crucifix.mp3
+29:Trivium/Shogun/10 - Like Callisto to a Star in Heaven.ogg
+30:Trivium/Shogun/11 - Shogun.ogg
+playlist_end

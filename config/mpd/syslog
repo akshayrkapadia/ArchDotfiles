@@ -1,0 +1,756 @@
+Jun 24 01:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 24 01:46 : exception: Failed to open '/home/akshay/.config/mpd/state': No such file or directory
+Jun 24 01:46 : client: [0] opened from 127.0.0.1:50914
+Jun 24 01:46 : client: [0] closed
+Jun 28 10:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:13 : client: [0] opened from 127.0.0.1:41004
+Jun 28 10:13 : client: [0] closed
+Jun 28 10:13 : client: [1] opened from 127.0.0.1:41022
+Jun 28 10:13 : client: [1] closed
+Jun 28 10:13 : client: [2] opened from 127.0.0.1:41030
+Jun 28 10:13 : client: [2] closed
+Jun 28 10:14 : client: [3] opened from 127.0.0.1:41058
+Jun 28 10:14 : update: added Trivium/Shogun/08 - He Who Spawned the Furies.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/04 - Into the Mouth of Hell We March.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/11 - Shogun.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/10 - Like Callisto to a Star in Heaven.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/07 - The Calamity.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/06 - Insurrection.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/09 - Of Prometheus and the Crucifix.mp3
+Jun 28 10:14 : update: added Trivium/Shogun/03 - Down From the Sky.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/05 - Throes of Perdition.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/02 - Torn Between Scylla and Charybdis.ogg
+Jun 28 10:14 : update: added Trivium/Shogun/01 - Kirisute Gomen.ogg
+Jun 28 10:14 : update: added Trivium/In Waves/04 Dusk Dismantled.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/12 Of All These Yesterdays.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/03 Inception Of The End.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/01 Capsizing The Sea.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/09 Caustic Are The Ties That Bind.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/07 A Skyline's Severance.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/10 Forsake Not The Dream.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/13 Leaving This World Behind.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/11 Chaos Reigns.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/06 Black.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/05 Watch The World Burn.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/02 In Waves.m4a
+Jun 28 10:14 : update: added Trivium/In Waves/08 Built To Fall.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/03 Strife.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/01 Brave This Storm.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/04 No Way To Heal.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/10 Wake (The End Is Nigh).m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/07 Through Blood And Dirt And Bone.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/06 At The End Of This War.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/09 Incineration (The Broken World).mp3
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/08 Villainy Thrives.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/05 To Believe.m4a
+Jun 28 10:14 : update: added Trivium/Vengeance Falls/02 Vengeance Falls.m4a
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/01 - The Sin And The Sentence.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/03 - Other Worlds.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/11 - Thrown Into The Fire.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/02 - Beyond Oblivion.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/10 - The Revanchist.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/08 - Sever The Hand.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/04 - The Heart From Your Hate.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/07 - Endless Night.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/06 - The Wretchedness Inside.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/09 - Beauty In The Sorrow.ogg
+Jun 28 10:14 : update: added Trivium/The Sin And The Sentence/05 - Betrayer.ogg
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/01 IX.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/09 Bending the Arc to Fear.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/05 Bleed into Me.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/06 The Defiant.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/04 Amongst the Shadows & the Stones.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/02 What the Dead Men Say.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/03 Catastrophist.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/10 The Ones We Leave Behind.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/08 Scattering the Ashes.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Trivium/What The Dead Men Say/07 Sickness Unto You.m4a
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/03 - Informal Gluttony.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/01 - Foam Born (A) The Backtrack.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/05 - Ants of the Sky.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/04 - Sun of Nothing.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/08 - White Walls.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/07 - Viridian.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/06 - Prequel to the Sequel.ogg
+Jun 28 10:14 : update: added Between the Buried and Me/Colors (Live)/02 - (B) The Decade of Statues.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/03 - For Whom the Bell Tolls.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/02 - Ride the Lightning.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/01 - Fight Fire With Fire.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/07 - Creeping Death.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/06 - Escape.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/08 - The Call of Ktulu.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/05 - Trapped Under Ice.ogg
+Jun 28 10:14 : update: added Metallica/Ride the Lightning/04 - Fade to Black.ogg
+Jun 28 10:14 : update: added Metallica/Kill Em All/02 The Four Horsemen.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/07 Orion (Instrumental).mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/03 The Thing That Should Not Be.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/06 Leper Messiah.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/02 Master Of Puppets.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/08 Damage_ Inc_.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/04 Welcome Home (Sanitarium).mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/05 Disposable Heroes.mp3
+Jun 28 10:14 : update: added Metallica/Master Of Puppets/01 Battery.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/06 Harvester Of Sorrow.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/07 The Frayed Ends Of Sanity.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/03 Eye Of The Beholder.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/01 Blackened.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/04 One.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/09 Dyers Eve.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/02 ___And Justice For All.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/05 The Shortest Straw.mp3
+Jun 28 10:14 : update: added Metallica/And Justice For All/08 To Live Is to Die.mp3
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/08 - Clash With Reality.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/12 - The Art of Shredding.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/05 - Cemetery Gates.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/11 - The Sleep.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/01 - Cowboys From Hell.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/03 - Psycho Holiday.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/06 - Domination.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/09 - Medicine Man.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/04 - Heresy.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/10 - Message in Blood.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/07 - Shattered.ogg
+Jun 28 10:14 : update: added Pantera/Cowboys From Hell/02 - Primal Concrete Sledge.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/02 - Walk.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/01 - Use My Third Arm.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/06 - Fucking Hostile.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/09 - Cowboys From Hell.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/05 - Slaughtered.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/04 - Domination - Hollow.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/08 - Mouth for War.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/07 - This Love.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Bootleg (Live)/03 - Strength Beyond Strength.ogg
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/07 - No Good (Attack The Radical).mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/06 - Rise.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/05 - This Love.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/04 - Fucking Hostile.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/09 - Regular People (Conceit).mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/08- Live In A Hole.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/03 - Walk.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/02 - A New Level.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/10 - By Demons Be Driven.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/11 - Hollow.mp3
+Jun 28 10:14 : update: added Pantera/Vulgar Display Of Power/01 - Mouth For War.mp3
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/05 - Good Friends and a Bottle of Pills.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/11 - Throes of Rejection.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/06 - Hard Lines, Sunken Cheeks.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/09 - Shedding Skin.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/03 - 5 Minutes Alone.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/07 - Slaughtered.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/02 - Becoming.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/08 - 25 Years.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/01 - Strength Beyond Strength.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/10 - Use My Third Arm.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/12 - Planet Caravan.ogg
+Jun 28 10:14 : update: added Pantera/Far Beyond Driven/04 - I’m Broken.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/01 - Waking the Fallen.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/10 - I Won_t See You Tonight, Part 2.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/08 - Radiant Eclipse.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/04 - Remenissions.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/06 - Eternal Rest.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/02 - Unholy Confessions.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/09 - I Won_t See You Tonight, Part 1.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/07 - Second Heartbeat.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/12 - And All Things Will End.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/03 - Chapter Four.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/11 - Clairvoyant Disease.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Waking the Fallen/05 - Desecrate Through Reverence.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/02 - Welcome to the Family.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/06 - So Far Away.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/11 - Save Me.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/04 - Buried Alive.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/03 - Danger Line.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/10 - Fiction.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/01 - Nightmare.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/07 - God Hates Us.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/08 - Victim.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/09 - Tonight the World Dies.ogg
+Jun 28 10:14 : update: added Avenged Sevenfold/Nightmare/05 - Natural Born Killer.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/02 - Echoless Chamber.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/04 - Tetrastructural Minds.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/05 - Venus Project.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/06 - Dark Creations, Dead Creators.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/01 - Cosmic Cortex.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/07 - Fast Paced Society.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/03 - Dying World.ogg
+Jun 28 10:14 : update: added Vektor/Outer Isolation/08 - Outer Isolation.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/04 - Mountains Above the Sun.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/02 - Cygnus Terminal.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/10 - Recharging the Void.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/03 - LCD (Liquid Crystal Disease).ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/01 - Charging the Void.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/09 - Collapse.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/06 - Pteropticon.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/08 - Pillars of Sand.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/07 - Psychotropia.ogg
+Jun 28 10:14 : update: added Vektor/Terminal Redux/05 - Ultimate Artificer.ogg
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/13 Ænema.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/01 Stinkfist.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/10 Die Eier von Satan.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/15 Third Eye.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/08 Intermission.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/04 Useful Idiot.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/12 Cesaro Summability.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/06 Message to Harry Manback.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/09 Jimmy.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/03 H..m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/02 Eulogy.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/14 (-) Ions.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/05 Forty Six & 2.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/07 Hooker with a Penis.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Tool/Aenima/11 Pushit.m4a
+Jun 28 10:14 : update: added Tool/Lateralus/03 - The Patient.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/04 - Mantra.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/02 - Eon Blue Apocalypse.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/07 - Parabola.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/06 - Parabol.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/11 - Reflection.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/05 - Schism.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/08 - Ticks & Leeches.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/09 - Lateralus.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/01 - The Grudge.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/12 - Triad.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/10 - Disposition.ogg
+Jun 28 10:14 : update: added Tool/Lateralus/13 - Faaip de Oiad.ogg
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 04 - Invincible.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 06 - Descending.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 03 - Litanie Contre La Peur.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 08 - Chocolate Chip Trip.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 10 - Mockingbeat.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 07 - Culling Voices.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 02 - Pneuma.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 09 - 7 Empest.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 01 - Fear Inoculum.mp3
+Jun 28 10:14 : update: added Tool/Fear Inoculum/Tool - 05 - Legion Inoculant.mp3
+Jun 28 10:14 : update: added Judas Priest/British Steel/03 - Breaking the Law.mp3
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/03 Brighter Than a Thousand Suns (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/09 Lord of Light (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/01 Different World (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/04 The Pilgrim (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/10 The Legacy (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/07 The Reincarnation of Benjamin Breeg (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/05 The Longest Day (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/08 For the Greater Good of God (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/02 These Colours Don't Run (2015 Remastered Version).m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Iron Maiden/A Matter Of Life And Death/06 Out of the Shadows (2015 Remastered Version).m4a
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/05 - The Mercenary.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/03 - Brave New World.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/07 - The Fallen Angel.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/02 - Ghost of the Navigator.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/09 - Out of the Silent Planet.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/10 - The Thin Line Between Love _ Hate.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/08 - The Nomad.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/06 - Dream of Mirrors.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/04 - Blood Brothers.ogg
+Jun 28 10:14 : update: added Iron Maiden/Brave New World/01 - The Wicker Man.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/05 - The Duellists.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/07 - Powerslave.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/01 - Aces High.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/03 - Losfer Words (Big ’Orra).ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/04 - Flash of the Blade.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/02 - 2 Minutes to Midnight.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/08 - Rime of the Ancient Mariner.ogg
+Jun 28 10:14 : update: added Iron Maiden/Powerslave/06 - Back in the Village.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/06 - Innocent Exile.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/07 - Killers.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/02 - Wrathchild.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/08 - Prodigal Son.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/03 - Murders in the Rue Morgue.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/11 - Drifter.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/05 - Genghis Khan.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/09 - Purgatory.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/04 - Another Life.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/10 - Twilight Zone.ogg
+Jun 28 10:14 : update: added Iron Maiden/Killers/01 - The Ides of March.ogg
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/05 The Number of the Beast.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/03 The Prisoner.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/02 Children of the Damned.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/08 Total Eclipse.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/09 Hallowed be thy Name.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/07 Gangland.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/04 22 Acacia Avenue.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/06 Run to the Hills.m4a
+Jun 28 10:14 : update: added Iron Maiden/The Number of the Beast/01 Invaders.m4a
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/05 - The Loneliness of the Long Distance Runner.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/07 - Déjà vu.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/08 - Alexander the Great.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/02 - Wasted Years.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/03 - Sea of Madness.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/06 - Stranger in a Strange Land.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/01 - Caught Somewhere in Time.ogg
+Jun 28 10:14 : update: added Iron Maiden/Somewhere in Time/04 - Heaven Can Wait.ogg
+Jun 28 10:14 : update: added Acid/Skyline/Ruina Magna.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Relentless.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Unstoppable Force.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Jam Medley.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Heat Wave.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Skyline.mp3
+Jun 28 10:14 : update: added Acid/Skyline/Ascension.mp3
+Jun 28 10:14 : update: added Acid/Skyline/A Song.mp3
+Jun 28 10:14 : update: added Acid/Acid I/07 Time Machine.mp3
+Jun 28 10:14 : update: added Acid/Acid I/05 Downturn.mp3
+Jun 28 10:14 : update: added Acid/Acid I/02 Descent Into the Abyss.mp3
+Jun 28 10:14 : update: added Acid/Acid I/09 Rise of the Legend.mp3
+Jun 28 10:14 : update: added Acid/Acid I/11 Armageddon.mp3
+Jun 28 10:14 : update: added Acid/Acid I/06 Melodies Out of Thin Air (Part Two).mp3
+Jun 28 10:14 : update: added Acid/Acid I/03 Shattered Frost.mp3
+Jun 28 10:14 : update: added Acid/Acid I/08 The Legend Born.mp3
+Jun 28 10:14 : update: added Acid/Acid I/10 The Legend Resurrected.mp3
+Jun 28 10:14 : update: added Acid/Acid I/01 The Room.mp3
+Jun 28 10:14 : update: added Acid/Acid I/04 Melodies Out of Thin Air (Part One).mp3
+Jun 28 10:14 : update: added Acid/Sepia/Can_t Stop.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Critical Miss.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Dreams Exist in Reality.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Gus the Just_ the Human.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Into the Blue.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Swimming in Silence.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Through the Mist.mp3
+Jun 28 10:14 : update: added Acid/Sepia/Renewal.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 05 The Rivers Run Red Under the Pale Sky.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 04 A Vain Search After What Cannot Be Found.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 02 Fleeting Glimpses at the Light that Blinds.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 03 Night Skies.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 01 A Hazy Dream is Often Lost to the Winds of Change.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 07 And Then There Was But One Left to Fall.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 09 A Hazy Dream (Demo Take).mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 06 A Warm Respite.mp3
+Jun 28 10:14 : update: added Acid/Acid II/Acid - Acid - 08 False Faces for the Watcher's Eyes.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Travel.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Meeting.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Intro.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Interlude 2.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Loss.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Character Intro.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Interlude 3.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Happy.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Climax.mp3
+Jun 28 10:14 : update: added Acid/Patchwork Landscape/Credits.mp3
+Jun 28 10:14 : update: added Acid/Curse of the Sea 2019 mix.mp3
+Jun 28 10:14 : update: added Acid/Changing Times 2019 mix.mp3
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/06 - Voice of the Soul.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/08 - A Moment of Clarity.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/03 - Spirit Crusher.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/05 - Flesh and the Power It Holds.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/01 - Scavenger of Human Sorrow.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/09 - Painkiller.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/04 - Story to Tell.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/02 - Bite the Pain.ogg
+Jun 28 10:14 : update: added Death/The Sound of Perseverance/07 - To Forgive Is to Suffer.ogg
+Jun 28 10:14 : update: added Death/Symbolic/12 - Crystal Mountain (demo).ogg
+Jun 28 10:14 : update: added Death/Symbolic/03 - Empty Words.ogg
+Jun 28 10:14 : update: added Death/Symbolic/14 - Symbolic Acts (4-track demo).ogg
+Jun 28 10:14 : update: added Death/Symbolic/13 - Misanthrope (demo).ogg
+Jun 28 10:14 : update: added Death/Symbolic/09 - Perennial Quest.ogg
+Jun 28 10:14 : update: added Death/Symbolic/11 - Zero Tolerance (demo).ogg
+Jun 28 10:14 : update: added Death/Symbolic/07 - Crystal Mountain.ogg
+Jun 28 10:14 : update: added Death/Symbolic/05 - 1,000 Eyes.ogg
+Jun 28 10:14 : update: added Death/Symbolic/04 - Sacred Serenity.ogg
+Jun 28 10:14 : update: added Death/Symbolic/10 - Symbolic Acts (demo).ogg
+Jun 28 10:14 : update: added Death/Symbolic/01 - Symbolic.ogg
+Jun 28 10:14 : update: added Death/Symbolic/02 - Zero Tolerance.ogg
+Jun 28 10:14 : update: added Death/Symbolic/08 - Misanthrope.ogg
+Jun 28 10:14 : update: added Death/Symbolic/06 - Without Judgement.ogg
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/07 Hex Omega.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/02 Heir Apparent.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/04 Burden.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/06 Hessian Peel.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/01 Coil.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/03 The Lotus Eater.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Watershed/05 Porcelain Heart.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/08 Blackwater Park.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/06 The Funeral Portrait.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/04 The Drapery Falls.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/05 Dirge for November.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/07 Patterns In the Ivy.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/02 Bleak.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/01 The Leper Affinity.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Blackwater Park/03 Harvest.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/08 Isolation Years.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/06 Hours of Wealth.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/07 The Grand Conjuration.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/02 The Baying of the Hounds.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/05 Reverie _ Harlequin Forest.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/03 Beneath the Mire.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/01 Ghost of Perdition.m4a
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : update: added Opeth/Ghost Reveries/04 Atonement.m4a
+Jun 28 10:14 : update: added Akshay R. Kapadia/Beyond The Realm Of Mortals.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Dark Presence/02 - Dark Presence.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Dark Presence/02 - Dark Presence.wav
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Heir Apparently.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Transcendency/Cold Blooded.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Transcendency/Architects.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Transcendency/Transcendency.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Transcendency/Reincarnate.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Opus.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Beyond The Realm Of Mortals.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Gates Of Life/Gates Of Life.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Gates Of Life/Mirage.mp3
+Jun 28 10:14 : update: added Akshay R. Kapadia/Old/Gates Of Life/Somber Visions.mp3
+Jun 28 10:14 : update: added Megadeth/Dystopia/05 - Bullet to the Brain.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/07 - Poisonous Shadows.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/10 - The Emperor.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/01 - The Threat Is Real.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/11 - Foreign Policy.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/09 - Lying in State.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/03 - Fatal Illusion.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/02 - Dystopia.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/08 - Conquer or Die!.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/04 - Death From Within.ogg
+Jun 28 10:14 : update: added Megadeth/Dystopia/06 - Post American World.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/06 - This Was My Life.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/05 - Sweating Bullets.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/04 - Foreclosure of a Dream.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/15 - Psychotron (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/01 - Skin o’ My Teeth.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/11 - Ashes in Your Mouth.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/03 - Architecture of Aggression.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/10 - Captive Honour.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/09 - Psychotron.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/13 - Countdown to Extinction (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/08 - High Speed Dirt.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/07 - Countdown to Extinction.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/12 - Crown of Worms.ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/14 - Symphony of Destruction (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Countdown to Extinction/02 - Symphony of Destruction.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/09 - Wake Up Dead (Randy Burns mix).ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/04 - Devil’s Island.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/07 - I Ain’t Superstitious.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/05 - Good Mourning - Black Friday.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/12 - Good Mourning - Black Friday (Randy Burns mix).ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/06 - Bad Omen.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/02 - The Conjuring.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/10 - The Conjuring (Randy Burns mix).ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/01 - Wake Up Dead.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/03 - Peace Sells.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/08 - My Last Words.ogg
+Jun 28 10:14 : update: added Megadeth/Peace Sells… But Who’s Buying_/11 - Peace Sells (Randy Burns mix).ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/08 - Dawn Patrol.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/03 - Take No Prisoners.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/04 - Five Magics.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/13 - Take No Prisoners (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/01 - Holy Wars… The Punishment Due.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/02 - Hangar 18.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/07 - Tornado of Souls.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/12 - Holy Wars… The Punishment Due (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/09 - Rust in Peace… Polaris.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/11 - Rust in Peace… Polaris (demo).ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/06 - Lucretia.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/05 - Poison Was the Cure.ogg
+Jun 28 10:14 : update: added Megadeth/Rust in Peace/10 - My Creation.ogg
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 28 10:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:14 : client: [4] opened from 127.0.0.1:41062
+Jun 28 10:14 : client: [4] closed
+Jun 28 10:14 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:14 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 28 10:14 : client: [5] opened from 127.0.0.1:41066
+Jun 28 10:14 : client: [5] closed
+Jun 28 10:14 : client: [3] closed
+Jun 28 10:14 : client: [6] opened from 127.0.0.1:41074
+Jun 28 10:14 : client: [6] closed
+Jun 28 10:14 : client: [7] opened from 127.0.0.1:41078
+Jun 28 10:14 : client: [7] closed
+Jun 28 10:14 : client: [8] opened from 127.0.0.1:41082
+Jun 28 10:14 : client: [8] closed
+Jun 28 10:15 : client: [9] opened from 127.0.0.1:41086
+Jun 28 10:15 : client: [10] opened from 127.0.0.1:41090
+Jun 28 10:15 : client: [10] closed
+Jun 28 10:17 : client: [11] opened from 127.0.0.1:41158
+Jun 28 10:17 : client: [12] opened from 127.0.0.1:41162
+Jun 28 10:17 : client: [12] closed
+Jun 28 10:18 : client: [11] closed
+Jun 28 10:18 : client: [13] opened from 127.0.0.1:41170
+Jun 28 10:18 : client: [14] opened from 127.0.0.1:41174
+Jun 28 10:18 : client: [14] closed
+Jun 28 10:18 : client: [13] closed
+Jun 28 10:18 : client: [15] opened from 127.0.0.1:41178
+Jun 28 10:18 : client: [16] opened from 127.0.0.1:41182
+Jun 28 10:18 : client: [16] closed
+Jun 28 10:18 : client: [15] closed
+Jun 28 10:19 : client: [17] opened from 127.0.0.1:41186
+Jun 28 10:19 : client: [17] closed
+Jun 28 10:19 : client: [18] opened from 127.0.0.1:41190
+Jun 28 10:19 : client: [18] closed
+Jun 28 10:24 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 10:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:55 : client: [0] opened from 127.0.0.1:39972
+Jun 28 10:55 : client: [1] opened from 127.0.0.1:39976
+Jun 28 10:55 : client: [1] closed
+Jun 28 10:55 : client: [2] opened from 127.0.0.1:39980
+Jun 28 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:55 : client: [2] closed
+Jun 28 10:55 : client: [3] opened from 127.0.0.1:39992
+Jun 28 10:55 : client: [3] closed
+Jun 28 10:59 : client: [0] closed
+Jun 28 11:22 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 11:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:23 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 11:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:26 : client: [0] opened from 127.0.0.1:37310
+Jun 28 11:26 : client: [1] opened from 127.0.0.1:37314
+Jun 28 11:26 : client: [1] closed
+Jun 28 11:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:26 : client: [2] opened from 127.0.0.1:37318
+Jun 28 11:26 : client: [2] closed
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:26 : client: [3] opened from 127.0.0.1:37322
+Jun 28 11:26 : client: [3] closed
+Jun 28 11:27 : client: [4] opened from 127.0.0.1:37326
+Jun 28 11:27 : client: [4] closed
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Jun 28 11:27 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 28 11:27 : client: [5] opened from 127.0.0.1:37330
+Jun 28 11:27 : client: [5] closed
+Jun 28 11:27 : client: [6] opened from 127.0.0.1:37334
+Jun 28 11:27 : client: [6] closed
+Jun 28 11:27 : client: [0] closed
+Jun 28 11:27 : client: [7] opened from 127.0.0.1:37338
+Jun 28 11:27 : client: [7] closed
+Jun 28 11:27 : client: [8] opened from 127.0.0.1:37342
+Jun 28 11:27 : client: [8] closed
+Jun 28 11:27 : player: played "Trivium/What The Dead Men Say/01 IX.m4a"
+Jun 28 11:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:34 : client: [0] opened from 127.0.0.1:40370
+Jun 28 11:34 : client: [1] opened from 127.0.0.1:40374
+Jun 28 11:34 : client: [1] closed
+Jun 28 11:34 : client: [0] closed
+Jun 28 11:36 : client: [2] opened from 127.0.0.1:40378
+Jun 28 11:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 11:36 : client: [2] closed
+Jun 28 11:36 : client: [3] opened from 127.0.0.1:40382
+Jun 28 11:36 : client: [3] closed
+Jun 28 11:36 : client: [4] opened from 127.0.0.1:40386
+Jun 28 11:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 28 11:36 : client: [4] closed
+Jun 28 11:36 : client: [5] opened from 127.0.0.1:40390
+Jun 28 11:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jun 28 11:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jun 28 11:36 : client: [5] closed
+Jun 28 11:36 : client: [6] opened from 127.0.0.1:40394
+Jun 28 11:36 : client: [6] closed

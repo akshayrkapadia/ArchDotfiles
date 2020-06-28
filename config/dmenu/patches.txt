@@ -1,0 +1,4 @@
+dmenu-fuzzymatch
+dmenu-mousesupport
+dmenu-numbers
+dmenu-password
