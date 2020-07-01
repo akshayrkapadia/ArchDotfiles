@@ -225,10 +225,10 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #657B83 #285577 #ffffff #81d4fa   #03a9f4
-client.focused_inactive #333333 #5f676a #ffffff #37474f   #37474f
-client.unfocused        #333333 #222222 #888888 #37474f   #37474f
-client.urgent           #2f343a #900000 #ffffff #900000   #be5046
+client.focused          #657B83 #285577 #ffffff #56b6c2   #2194f2
+client.focused_inactive #333333 #5f676a #ffffff #5c6370   #5c6370
+client.unfocused        #333333 #222222 #888888 #5c6370   #5c6370
+client.urgent           #2f343a #900000 #ffffff #e06c75   #e06c75
 client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 # Set shut down, restart and locking features
@@ -282,15 +282,15 @@ bar {
 
 	colors {
 
-		background #1d2026
+		background #1e2127
 		statusline #abb2bf
 		separator  #4b5263
 
 		#                   border  backgr. text
-		focused_workspace  #1d2026 #1d2026 #2f90d6
-		active_workspace   #1d2026 #1d2026 #abb2bf
-		inactive_workspace #1d2026 #1d2026 #4b5263
-		urgent_workspace   #be5046 #1d2026 #be5046
+		focused_workspace  #1e2127 #1e2127 #2194f2
+		active_workspace   #1e2127 #1e2127 #abb2bf
+		inactive_workspace #1e2127 #1e2127 #5c6370
+		urgent_workspace   #e06c75 #1e2127 #e06c75
 
 	}
 
