@@ -105,5 +105,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias pacs="sudo pacman -Ss"
+alias pacr="sudo pacman -Rsn"
+alias pacu="sudo pacman -Syyu"
+alias pacd="sudo pacman -Rs $(pacman -Qtdq)"
+alias pacc="sudo pacman -Sc"
+alias pacm="pacu && pacd && pacc"
 
 export PATH=$PATH:~/.local/bin

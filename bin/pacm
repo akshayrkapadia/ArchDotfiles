@@ -1,7 +1,0 @@
-#!/bin/zsh
-
-# Script to automate arch maintenance
-
-yes | sudo pacman -Syyu
-yes | sudo pacman -Rs $(pacman -Qtdq)
-yes | sudo pacman Sc

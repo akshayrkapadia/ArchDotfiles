@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ESSID=$(nmcli d wifi list | grep "Mbit/s" | awk '{print $1}' | grep -v "*\|--" | dmenu -i -p "Wifi Network" -F)
+ESSID=$(nmcli d wifi list | grep "Mbit/s" | awk '{print $2}' | grep -v ":\|--" | dmenu -i -p "Wifi Network" -F)
 
 if [[ "$ESSID" != "" ]]; then
 	PASSWORD=$(dmenu -i -p "Password" -P -F -fn "monospace-13")
