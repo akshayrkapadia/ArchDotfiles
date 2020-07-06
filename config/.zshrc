@@ -111,5 +111,6 @@ alias pacu="sudo pacman -Syyu"
 alias pacd="sudo pacman -Rs $(pacman -Qtdq)"
 alias pacc="sudo pacman -Sc"
 alias pacm="pacu && pacd && pacc"
+alias rmr="yes | rm -R"
 
 export PATH=$PATH:~/.local/bin
