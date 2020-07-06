@@ -307,7 +307,7 @@ gaps outer $default_gaps_outer
 smart_borders on
 # smart_gaps on
 
-set $mode_gaps gaps
+set $mode_gaps (o)uter, (i)nner, (d)efault, 0 
 set $mode_gaps_outer outer gaps
 set $mode_gaps_inner inner gaps
 bindsym $mod+Shift+g mode "$mode_gaps"
