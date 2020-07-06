@@ -112,5 +112,6 @@ alias pacd="sudo pacman -Rs $(pacman -Qtdq)"
 alias pacc="sudo pacman -Sc"
 alias pacm="pacu && pacd && pacc"
 alias rmr="yes | rm -R"
+alias gitpush="ga -A && gc -m 'updated' && gp"
 
 export PATH=$PATH:~/.local/bin
